@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e00ad5-1a77-4065-a1fa-97a4adc959fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstsite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <workItem from="1739526543397" duration="2075000" />
       <workItem from="1739954916368" duration="2184000" />
       <workItem from="1741471671469" duration="15716000" />
-      <workItem from="1741526717806" duration="3118000" />
+      <workItem from="1741526717806" duration="3257000" />
     </task>
     <servers />
   </component>
