@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e00ad5-1a77-4065-a1fa-97a4adc959fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "build.tools",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TOML"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -109,7 +114,7 @@
       <workItem from="1739526543397" duration="2075000" />
       <workItem from="1739954916368" duration="2184000" />
       <workItem from="1741471671469" duration="15716000" />
-      <workItem from="1741526717806" duration="1288000" />
+      <workItem from="1741526717806" duration="2722000" />
     </task>
     <servers />
   </component>
