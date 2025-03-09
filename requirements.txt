@@ -1,0 +1,6 @@
+Django==5.1.7
+django-debug-toolbar==5.0.1
+sqlparse==0.5.3
+asgiref==3.8.1
+tzdata==2025.1
+pip==23.2.1
